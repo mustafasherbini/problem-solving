@@ -1,9 +1,8 @@
-// Problem: problem
-// Platform: vjudge
-// Contest: Maximize Rating - AtCoder abc327_e - Virtual Judge
-// Language: C++23 (GCC 15.2.0)
+// Problem: Maximize Rating
+// Platform: atcoder
+// Language: C++17
 // Verdict: Accepted
-// URL: https://vjudge.net/problem/AtCoder-abc327_e
+// URL: https://atcoder.jp/contests/abc327/tasks/abc327_e?lang=en
 // Solved on: 2026-09-29T07:17:49.139Z
 
     #include <bits/stdc++.h>
