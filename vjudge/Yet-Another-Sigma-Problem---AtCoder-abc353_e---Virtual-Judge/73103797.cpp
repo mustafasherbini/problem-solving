@@ -4,7 +4,7 @@
 // Language: C++23 (GCC 15.2.0)
 // Verdict: Accepted
 // URL: https://vjudge.net/problem/AtCoder-abc353_e
-// Solved on: 2026-10-06T20:31:25.713Z
+// Solved on: 2026-10-06T20:37:15.839Z
 
     #include <bits/stdc++.h>
     #include <ext/pb_ds/assoc_container.hpp>
